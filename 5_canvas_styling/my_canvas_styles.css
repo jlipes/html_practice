@@ -1,0 +1,64 @@
+.canvas{
+  width: 100%;
+}
+
+.wide_input{
+width: 90%;
+}
+
+.canvas_section{
+border:thin black solid;
+vertical-align: top;
+padding: 10px;
+}
+
+.sublist{
+list-style-position: left;
+font-style: italic;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+ol{
+margin:0;
+}
+
+h1{
+  font-size: 12pt;
+}
+
+h2{
+margin-top:0;
+}
+
+h3{
+font-size: 6pt;
+text-transform:uppercase;
+margin-bottom: 0;
+}
+
+h4{
+  margin:0;
+}
+
+p{
+  margin:0;
+}
+
+
+body{
+font-size: 6pt;
+  font-family: Arial;
+}
+
+tr{
+  vertical-align: top;
+}
+
+ol{
+  padding: 10px;
+}
